@@ -6,7 +6,7 @@
 |Dataset                | [Movie-Sentimen-Analisis](https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format?select=Train.csv).         
 |Masalah                | Bagaiaman cara menganalisis sentimen movie berdasarkan text review                                         |
 |Solusi Machine Learning| Membuat pengembangan machine learning  terkait dengan analisis text                                        |
-|                       | reviw movie dengan menggunakan tensorflow extended pipeline                                                |
+|                       | review movie dengan menggunakan tensorflow extended pipeline                                               |
 |Metode Pengolahan      | 1.Melakukan pengolahan data yang meliputi:                                                                 |
 |                       |  - Data Ingestion                                                                                          |
 |                       |  - Data Validation                                                                                         |
