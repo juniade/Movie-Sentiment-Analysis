@@ -4,7 +4,7 @@
 |                       |                     Deskripsi                                                                              |
 |-----------------------|------------------------------------------------------------------------------------------------------------|
 |Dataset                | [Movie-Sentimen-Analisis]                                                                                  |
-|                       |(https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format?select=Train.csv)  |
+|                       |(https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format?select=Train.csv).  |
 |-----------------------|------------------------------------------------------------------------------------------------------------|
 |Masalah                | Bagaiaman cara menganalisis sentiemn movie berdasarkan text review                                         |
 |-----------------------|------------------------------------------------------------------------------------------------------------|
